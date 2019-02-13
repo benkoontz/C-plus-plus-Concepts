@@ -1,0 +1,9 @@
+chair 0
+ninja -54
+fruit 43
+shoe 0
+pencil 0
+cnady 87
+soda 32
+monster -44
+rhino -99
